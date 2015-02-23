@@ -88,7 +88,7 @@
                 		<addMavenDescriptor>false</addMavenDescriptor>
                 		<manifestEntries>
 					 <Build-Time>${maven.build.timestamp}</Build-Time>
-                        		<Build-Number>${BUILD.NUMBER}</Build-Number>
+                        		<Build-Number>${BUILD_NUMBER}</Build-Number>
                 		</manifestEntries>
                 	</archive>
 		</configuration>
